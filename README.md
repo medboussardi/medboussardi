@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @medboussardi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, ## Mohammed Boussardi
+- 👀 I’m interested in Software 
+- 🌱 I’m currently learning Git , Algorithm and Data Structure
+- 💞️ I’m looking to collaborate on React Project
+- 📫 How to reach me on my Linkedin Profile : https://www.linkedin.com/in/mohammed-boussardi/
 
 <!---
 medboussardi/medboussardi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
