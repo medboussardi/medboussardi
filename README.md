@@ -1,4 +1,4 @@
-- 👋 Hi, ## Mohammed Boussardi
+- 👋 Hi, Mohammed Boussardi
 - 👀 I’m interested in Software 
 - 🌱 I’m currently learning Git , Algorithm and Data Structure
 - 💞️ I’m looking to collaborate on React Project
