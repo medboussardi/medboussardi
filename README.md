@@ -9,14 +9,47 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://fiverr.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-05122A?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+    <img src="https://img.shields.io/badge/Fiverr-05122A?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire Me on Fiverr" />
   </a>
   <a href="https://www.upwork.com/freelancers/~yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-05122A?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+    <img src="https://img.shields.io/badge/Upwork-05122A?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire Me on Upwork" />
   </a>
   <a href="https://www.buymeacoffee.com/medboussardi">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FD0?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FD0?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Support My Work" />
   </a>
+</p>
+
+---
+
+### 🛠️ Technical Stack  
+
+#### **Programming Languages**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-F2E8CF?style=for-the-badge&logo=oracle&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
+
+#### **Frameworks & Tools**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Oracle%20APEX-FF6600?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle%20EBS-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/WPF-239120?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
+#### **Databases & DevOps**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
@@ -28,47 +61,31 @@
 - Designed **secure electronic signature workflows** for a **government institution** using Oracle APEX and PL/SQL  
 - Integrated Oracle E-Business Suite (EBS) with **RESTful APIs** for real-time payroll data synchronization  
 - Optimized PL/SQL packages to achieve **100% transaction traceability** for sensitive payroll data  
-- Built a **travel expense management system** for a **multinational corporation** using PL/SQL and NGINX proxy  
 
 #### **ERP Integration Specialist**  
 *Freelance & Contract Roles*  
-- Migrated HR/payroll data between **Odoo** and **Popay.net** via Oracle Web Services  
+- Migrated HR data between **Odoo** and **Popay.net** via Oracle Web Services  
 - Automated data synchronization pipelines, reducing manual errors by **40%**  
 - Implemented **Jenkins CI/CD pipelines** for deployment automation  
 
 #### **Full-Stack Developer**  
 *Freelance & Contract Roles*  
-- Developed a **warehouse management system** in C#/WPF with SQL Server (reduced inventory errors by 35%)  
-- Created **RESTful APIs** for legacy system integration using TypeScript and Next.js  
+- Built a **warehouse management system** in **C#/WPF** with SQL Server (reduced inventory errors by 35%)  
+- Created **RESTful APIs** for legacy system integration using **TypeScript/Next.js**  
 - Implemented secure **OAuth 2.0 authentication** workflows  
 
 #### **Software Development Tutor**  
 **Classgap.com** *(Top 1% Tutor)*  
 March 2022 – August 2023  
 - Taught 150+ students in **Java, C++, Python, and OOP concepts**  
-- Designed interactive projects for algorithmic problem-solving and database design  
 - Maintained 4.9/5 rating for personalized learning strategies  
 
 ---
 
-### 🔧 Technical Expertise  
-
-| **Core Technologies** | **Frameworks/Tools** | **Databases** | **DevOps** |
-|-----------------------|----------------------|---------------|------------|
-| Oracle APEX | NGINX | Oracle EBS | Jenkins |
-| PL/SQL | Docker | PostgreSQL | CI/CD |
-| Python | TypeScript | SQL Server | Linux |
-| C# WPF | UML | ElasticSearch | |
-
----
-
-### 🌱 Open Source Contributions (Ready to Contribute)  
-- **Oracle APEX Utilities**  
-  - Planning to release PL/SQL package templates for ERP integrations  
-  - Developing free learning modules for PL/SQL best practices  
-- **Community Projects**  
-  - Willing to contribute to open-source ERP systems like **Odoo/Openbravo**  
-  - Available for collaborative legacy system modernization projects  
+### 🌱 Open Source Contributions  
+- Developing **PL/SQL package templates** for Oracle APEX integrations  
+- Creating free learning modules for **PL/SQL best practices**  
+- Available to contribute to **Odoo/Openbravo** open-source ERP projects  
 
 ---
 
@@ -97,8 +114,8 @@ September 2019 – June 2021
 ### 🤝 Let’s Collaborate!  
 - **Freelance Services**: Available on [Fiverr](https://fiverr.com/yourusername) and [Upwork](https://www.upwork.com/freelancers/~yourusername)  
 - **Open to**:  
-  - Secure Oracle APEX application development  
-  - ERP system modernization projects  
+  - Oracle APEX application development  
+  - ERP system modernization  
   - Database optimization and PL/SQL performance tuning  
 
 ---
@@ -109,21 +126,3 @@ September 2019 – June 2021
 </p>
 
 ---
-
-### Key Highlights from Your CV:  
-✅ **Oracle APEX Expertise**: 3+ years implementing secure workflows, RESTful services, and EBS integrations  
-✅ **Legacy System Modernization**: Successfully migrated Odoo/Popay.net data with 40% error reduction  
-✅ **Teaching Excellence**: Top 1% tutor on Classgap with 150+ students taught  
-✅ **Technical Proficiency**: PL/SQL, Python, C#, Docker, and Linux systems administration  
-✅ **Security Focus**: Built audit-compliant systems for government and multinational clients  
-
----
-
-### How to Use This Template:  
-1. Replace `[your-website.com]` with your portfolio URL  
-2. Update Fiverr/Upwork links with your actual profile URLs  
-3. Add your GitHub username to the stats section  
-4. Add a profile photo in the header section (optional)  
-5. Adjust technical details to match your latest projects  
-
-This README emphasizes your technical expertise, quantifiable achievements, and collaboration readiness while keeping client details confidential. Let me know if you need further refinements!
